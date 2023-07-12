@@ -1,0 +1,32 @@
+[
+    {
+        "id": "user001",
+        "login": "login1",
+        "haslo": "haslo1",
+        "imie": "Grzegorz",
+        "nazwisko": "NazwiskoPlaceholder1",
+        "PESEL": 65112505939,
+        "numer_konta": 100744,
+        "saldo": 3150.0
+    },
+    {
+        "id": "user002",
+        "login": "login2",
+        "haslo": "haslo2",
+        "imie": "Ewelina",
+        "nazwisko": "NazwiskoPlaceholder2",
+        "PESEL": 88090723467,
+        "numer_konta": 100091,
+        "saldo": 3437.8
+    },
+    {
+        "id": "user003",
+        "login": "login3",
+        "haslo": "haslo3",
+        "imie": "Czeslaw",
+        "nazwisko": "NazwiskoPlaceholder3",
+        "PESEL": 79103044951,
+        "numer_konta": 105507,
+        "saldo": 3052.0
+    }
+]
